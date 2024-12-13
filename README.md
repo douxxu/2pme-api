@@ -1,7 +1,8 @@
-<a href="https://2peek.me">
+<a href="https://2peek.me" style="display: block; text-align: center;">
   <img alt="2Peek.Me - Create subdomains, for free." src="readme_assets/2pmebanner.png" />
   <h1 align="center">2Peek.Me</h1>
 </a>
+
 
 <p align="center">
   Create subdomains, for free.
